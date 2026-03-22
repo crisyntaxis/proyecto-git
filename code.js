@@ -1,3 +1,3 @@
-saludo = "Hola, bienvenidx :) el equipo de login es el mejor, dale like si es cierto lol...";
+saludo = "Hola, bienvenidx :) a mi sitio de aprendizaje con Git.";
 
 alert(saludo)
